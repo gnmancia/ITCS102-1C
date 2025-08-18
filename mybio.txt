@@ -1,0 +1,11 @@
+my name is: Gerald Noel Mancia
+course/section: BSIT-1C(SPED)    
+age:20
+address: 869 Purok Buklod Pagkakaisa Cotta, Lucena City
+father: Manuel A. Mancia
+mother: Joy L. Mancia
+sister: Ma Camille L. Mancia
+little: Trisha Marielle L. Mancia
+Hobbies:ML, TIKTOK, MOVIES 
+
+

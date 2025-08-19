@@ -1,15 +1,12 @@
-a = 5
+b = 12
+print("The value of b is", b)
 
-print("The value of a is ",a)
+b -= 2     
+print("The value of b is", b)
 
-a += 5
+b *= 3     
+b //= 4   
+b %= 5     
+b **= 3    
 
-print("The value of a is ",a)
-
-a += 3
-a += 13
-a -= 4
-a *= 2
-a = a + 6
-
-print("The value of a is ",a)
+print("The value of b is", b)

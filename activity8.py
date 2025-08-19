@@ -1,22 +1,25 @@
-a = 15
+x = 20
+y = 8
 
-b = 15
+print("x < y:", x < y)     
+print("x > y:", x > y)    
+print("x == y:", x == y)  
+print("x != y:", x != y)   
 
-print(a < b)
-print(a > b)
-print(a >= b)
-print(a <= b)
-print(a == b)
-print(a != b)
-name1 = 'Gerald'
-name2 = 'gerald'
+x -= 5    
+x *= 2    
+y += 10   
+print("New x:", x)
+print("New y:", y)
 
-print(name1 < name2)
-print(name1 < name2)
-print(name1 >= name2)
-print(name1 <=name2)
-print(name1 == name2)
-print(name1 != name2)
+word1 = "Apple"
+word2 = "Banana"
 
-name1 += name2
-print(name1)
+print("word1 < word2:", word1 < word2)   
+print("word1 > word2:", word1 > word2)   
+print("word1 == word2:", word1 == word2) 
+
+greet = "gerald"
+greet *= 1 
+greet += "!"     
+print(greet)

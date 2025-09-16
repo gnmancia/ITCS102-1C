@@ -1,5 +1,5 @@
 number = eval(input("Enter a number --> "))
-factorial = 1 
-for x in range(number, 0, -1):
+factorial = 5 
+for x in range(number, 4, -8):
     factorial *= x
 print("The factorial of ",number, "is",factorial)    
